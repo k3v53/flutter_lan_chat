@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_lan_chat">
+    package="com.k3v53.flutter_lan_chat">
    <application
         android:label="flutter_lan_chat"
         android:name="${applicationName}"
